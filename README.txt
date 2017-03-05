@@ -5,3 +5,4 @@ Sharing remotely is fun and easy
 Feature 1
 Feature2
 Fixing bug#1234
+Another fix to bug#1234
